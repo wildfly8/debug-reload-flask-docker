@@ -1,4 +1,4 @@
-# debug a flask-api app with hot reload in a docker container via Gunicorn
+# debug a flask-api app with hot reload in a docker container via gunicorn
 
 To start flask-api service as prod:
 
