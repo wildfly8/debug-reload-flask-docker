@@ -1,0 +1,14 @@
+env/
+__pycache__/
+node_modules/
+sass-cache/
+bower_components/
+*.log
+*.log.*
+*.pyc
+*.swp
+config.yaml
+.DS_Store
+media/
+.idea/
+.vscode/
